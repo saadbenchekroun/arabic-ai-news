@@ -44,36 +44,36 @@ Arabic AI News Blog is a specialized Arabic-language news platform that aims to 
 
 1. استنساخ المستودع (Clone the repository)
 
-\`\`\`bash
+```bash
 git clone https://github.com/yourusername/arabic-ai-news-blog.git
 cd arabic-ai-news-blog
-\`\`\`
+```
 
 2. تثبيت التبعيات (Install dependencies)
 
-\`\`\`bash
+```bash
 npm install
 # أو
 yarn install
 # أو
 pnpm install
-\`\`\`
+```
 
 3. تشغيل خادم التطوير (Run the development server)
 
-\`\`\`bash
+```bash
 npm run dev
 # أو
 yarn dev
 # أو
 pnpm dev
-\`\`\`
+```
 
 4. افتح [http://localhost:3000](http://localhost:3000) في متصفحك لمشاهدة الموقع
 
 ## 📁 هيكل المشروع (Project Structure)
 
-\`\`\`
+```bash
 arabic-ai-news-blog/
 ├── app/                      # مجلد التطبيق الرئيسي (Next.js App Router)
 │   ├── about/                # صفحة "من نحن"
@@ -103,7 +103,7 @@ arabic-ai-news-blog/
 ├── package.json             # تبعيات المشروع
 ├── tailwind.config.ts       # إعدادات Tailwind CSS
 └── tsconfig.json            # إعدادات TypeScript
-\`\`\`
+```
 
 ## 📄 الصفحات الرئيسية (Main Pages)
 
@@ -120,7 +120,7 @@ arabic-ai-news-blog/
 
 يمكن تعديل نظام الألوان في ملف `tailwind.config.ts`:
 
-\`\`\`typescript
+```bash
 // tailwind.config.ts
 const config = {
   // ...
@@ -132,21 +132,21 @@ const config = {
     }
   }
 }
-\`\`\`
+```
 
 ### إضافة خطوط جديدة (Adding New Fonts)
 
 1. أضف ملفات الخط إلى مجلد `public/fonts/`
 2. عدّل ملف `globals.css` لإضافة تعريفات الخط الجديدة:
 
-\`\`\`css
+```bash
 @font-face {
   font-family: "YourFont";
   src: url("/fonts/YourFont-Regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
-\`\`\`
+```
 
 ## 🤝 المساهمة (Contributing)
 
@@ -159,17 +159,11 @@ const config = {
 5. ادفع إلى الفرع (`git push origin feature/amazing-feature`)
 6. افتح طلب سحب (Pull Request)
 
-## 📜 الترخيص (License)
-
-هذا المشروع مرخص بموجب [ترخيص MIT](LICENSE).
 
 ## 📞 الاتصال (Contact)
 
-لأي استفسارات أو اقتراحات، يرجى التواصل عبر:
+لأي استفسارات أو اقتراحات، يرجى التواصل عبر البريد الإلكتروني: saadbenchekrun@gmail.com
 
-- البريد الإلكتروني: example@example.com
-- تويتر: [@ArabicAINews](https://twitter.com)
-- لينكد إن: [Arabic AI News](https://linkedin.com)
 
 ---
 
