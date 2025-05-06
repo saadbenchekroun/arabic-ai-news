@@ -1,12 +1,15 @@
 # مدونة أخبار الذكاء الاصطناعي (Arabic AI News Blog)
 
-![Arabic AI News Blog](https://placeholder.svg?height=300&width=800&text=Arabic+AI+News+Blog)
+![image](https://github.com/user-attachments/assets/6a6e101d-469d-4412-a44c-a2077d9dab4a)
+
 
 ## 📝 نبذة عن المشروع (Project Overview)
 
 مدونة أخبار الذكاء الاصطناعي هي منصة إخبارية متخصصة باللغة العربية تهدف إلى تقديم أحدث الأخبار والتطورات في مجال الذكاء الاصطناعي. المشروع مصمم بواجهة سهلة الاستخدام تدعم اللغة العربية بشكل كامل (RTL) وتوفر تجربة مستخدم غنية ومتكاملة.
 
 Arabic AI News Blog is a specialized Arabic-language news platform that aims to provide the latest news and developments in the field of artificial intelligence. The project is designed with an easy-to-use interface that fully supports Arabic language (RTL) and provides a rich and integrated user experience.
+![image](https://github.com/user-attachments/assets/b5a0de69-18fd-48e3-863c-76af3c22693d)
+
 
 ## ✨ المميزات (Features)
 
