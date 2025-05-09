@@ -38,34 +38,26 @@ Arabic AI News Blog is a specialized Arabic-language news platform that aims to 
 ### المتطلبات الأساسية (Prerequisites)
 
 - Node.js (v18 أو أحدث)
-- npm أو yarn أو pnpm
+- pnpm
 
 ### خطوات التثبيت (Installation Steps)
 
 1. استنساخ المستودع (Clone the repository)
 
 ```bash
-git clone https://github.com/yourusername/arabic-ai-news-blog.git
+git clone https://github.com/saadbenchekroun/arabic-ai-news.git
 cd arabic-ai-news-blog
 ```
 
 2. تثبيت التبعيات (Install dependencies)
 
 ```bash
-npm install
-# أو
-yarn install
-# أو
 pnpm install
 ```
 
 3. تشغيل خادم التطوير (Run the development server)
 
 ```bash
-npm run dev
-# أو
-yarn dev
-# أو
 pnpm dev
 ```
 
